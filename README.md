@@ -1,4 +1,4 @@
-# Futurerestore downgrade 16.7.X -> 16.6
+# LitraDown is downgrade tool that allows to downgrade 16.7.X -> 16.6.X
 
 ### Requirements
 
