@@ -8,7 +8,7 @@ A checkm8 iPhone model (8+/X)
 ### How to use
 1. Download SHSH2 blob and iPSW for your device
 2. Clone repository to you folder via ```bash git clone https://github.com/AZGDO/futurerestore.git ```
-3. Run downgrader.sh in downloaded directory
+3. Run script.sh in downloaded directory
 4. Follow steps on screen
 ---
 
